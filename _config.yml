@@ -1,9 +1,8 @@
 title: Salessawi Ferede Yitbarek
 description: 
-#theme: jekyll-theme-minimal
 theme: jekyll-theme-dinky
 show_downloads: false
-#baseurl: /~salessaf
+url: salessa.github.io
 github:
   is_project_page: false
   repository_url: ""
